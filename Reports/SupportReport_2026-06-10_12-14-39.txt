@@ -1,0 +1,26 @@
+=== Diagnostics ===
+DateTime: 2026-06-10 12:14:39
+BaseDir: C:\Users\Student\Pictures\TaskTrackerV2\TaskTracker\TaskTracker.Gui\bin\Debug\net8.0-windows\
+AppVersion: 1.0.0.0
+Role: Admin
+StorageMode: JSON
+ConfigPath exists: False
+TasksFile exists: True
+
+Folders check:
+Data: OK (C:\Users\Student\Pictures\TaskTrackerV2\TaskTracker\TaskTracker.Gui\bin\Debug\net8.0-windows\Data)
+Logs: OK (C:\Users\Student\Pictures\TaskTrackerV2\TaskTracker\TaskTracker.Gui\bin\Debug\net8.0-windows\Logs)
+Backups: OK (C:\Users\Student\Pictures\TaskTrackerV2\TaskTracker\TaskTracker.Gui\bin\Debug\net8.0-windows\Backups)
+Exports: OK (C:\Users\Student\Pictures\TaskTrackerV2\TaskTracker\TaskTracker.Gui\bin\Debug\net8.0-windows\Exports)
+Reports: OK (C:\Users\Student\Pictures\TaskTrackerV2\TaskTracker\TaskTracker.Gui\bin\Debug\net8.0-windows\Reports)
+
+Tasks summary:
+Total: 1
+Active: 1
+Trash: 0
+Archive: 0
+
+Logs:
+Today log exists: True
+Today errors exists: False
+===================
